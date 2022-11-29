@@ -1,0 +1,2 @@
+In .env file include following
+MONGO_URL= mongodb+srv://username:passowrd@blog.u9mdhta.mongodb.net/?retryWrites=true&w=majority
